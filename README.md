@@ -1,14 +1,14 @@
-Hi 👋 My name is Harshdeep Yadav
+Hi 👋 I'm Harshdeep Yadav
 ================================
 
-Wanna be a web-developer..!!!
+Grinding With DSA
 -----------------------------
 
 Always ready to Learn new Technologies.
 
-* 🌍  I'm based in India
+* 🌍  I'm From India
 * ✉️  You can contact me at [harshdeepy5708@gmail.com](mailto:harshdeepy5708@gmail.com)
-* 🧠  I'm learning backend for website.
+* 🧠  I'm learning DSA.
 * 🤝  I'm open to collaborating on New Projects.
 
 <a href="https://www.github.com/Harshdeep-Yadav" target="_blank" rel="noreferrer"><img
