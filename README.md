@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdeep-yadav" alt="harshdeep-yadav" /></a> </p>
 
-- <h1>🔭 I’m currently working on **Web Project**</h1>
+- <h2>🔭 I’m currently working on **Web Project**</h2>
 
-- 🌱 I’m currently learning **DSA**
+- <h2>🌱 I’m currently learning **DSA**</h2>
 
-- 📫 How to reach me **harshdeepy5708@gmial.com**
+- <h2>📫 How to reach me **harshdeepy5708@gmial.com**</h2>
 
-- ⚡ Fun fact **I Think I am Good in DSA**
+- <h2>⚡ Fun fact **I Think I am Good in DSA**</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
