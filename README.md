@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <div><img  alt="Hacked", width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdeep-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="harshdeep-yadav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdeep-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="harshdeep-yadav" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdeep-yadav" alt="harshdeep-yadav" /></a> </p>
 
