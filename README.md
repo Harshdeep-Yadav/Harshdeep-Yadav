@@ -11,7 +11,7 @@
 
 - <h2>🌱 I’m currently learning **DSA**</h2>
 
-- <h2>📫 How to reach me **harshdeepy5708@gmial.com**</h2>
+- <h2>📫 How to reach me **harshdeepy5708@gmail.com**</h2>
 
 - <h2>⚡ Fun fact **I Think I am Good in DSA**</h2>
 
