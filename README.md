@@ -13,7 +13,7 @@
 
 - <h2>📫 How to reach me **harshdeepy5708@gmail.com**</h2>
 
-- <h2>⚡ Fun fact **I Think I amount cp Good in DSA**</h2>
+- <h2>⚡ Fun fact **I Think I amount Good in DSA**</h2>
 
 
 
