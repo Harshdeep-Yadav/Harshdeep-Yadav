@@ -1,5 +1,5 @@
 <!-- <div><img src="https://cutewallpaper.org/27/binary-code-wallpaper-gif/animated-matrix-wallpaper-gif-posted-by-sarah-mercado.gif"></div> -->
-//<h1 align="center">Hi 👋, hhhI'm Harshdeep Yadav</h1>
+//<h1 align="center">Hi 👋, I'm Harshdeep Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div><img  alt="Hacked", width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"></div>
 <!-- 
