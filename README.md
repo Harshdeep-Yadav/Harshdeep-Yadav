@@ -24,17 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<h1 align="center">Hi 👋, I'm Avninder Preet Singh</h1>
-<h3 align="center">I am a college student who is passionate about programming. I have learned Full Stack Web development.</h3>
-<p align=center>
-    <img src="https://komarev.com/ghpvc/?username=Avninder99"/>
-</p>
-    
-- 🌱 I’m currently learning Nodejs and Python
-- 🤔 I’m looking for help with Data Structure and Algorithms
-- 👯 I’m looking to collaborate on Web Projects/Repositories
-- 💬 Ask me about Web Development
-- 📫 How to reach me: avninderpreet99@gmail.com
 
 
 
@@ -68,21 +57,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p  align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avninder99&theme=github_dark" alt="github stats">
-  </br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avninder99&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avninder99&theme=github_dark">
-</p>
 
-<!-- <p align="center">
-    <a href="https://github.com/Avninder99">
-        <img src="https://github-readme-stats.vercel.app/api?username=Avninder99&bg_color=333333&title_color=fff&text_color=fff&show_icons=true" >
-    </a>
-</p> -->
-<!-- <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avninder99&layout=compact" alt="aa" />
-</p> -->
 <p style="background-color:black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdeep-yadav&show_icons=true&locale=en&layout=compact" alt="harshdeep-yadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdeep-yadav&show_icons=true&locale=en" alt="harshdeep-yadav" /></p>
