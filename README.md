@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://harshdeep-yadav.github.io/Portfolio/](https://harshdeep-yadav.github.io/Portfolio/)
 
-- 💬 Ask me about **🤔🤔🤔**
-
 - 📫 How to reach me **harshdeepy5708@gmail.com**
 
 - ⚡ Fun fact **🤣🤣🤣**
