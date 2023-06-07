@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdeep-yadav" alt="harshdeep-yadav"  /></a> </p>
 
 
-- 🔭 I’m currently working on **Full Stack Project**
-- 🌱 I’m currently learning **Backend for Websites**
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **Backend for Website**
 
 - 👯 I’m looking to collaborate on **Open Scource**
 
