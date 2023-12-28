@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Scource**
 
-- 🤝 I’m looking for help with **Full Stack Project**
+- 🤝 I’m looking for help with **Full Stack Projects**
   
 - 👨‍💻 All of my projects are available at [https://harshdeep-yadav.github.io/Portfolio/](https://harshdeep-yadav.github.io/Portfolio/)
 
